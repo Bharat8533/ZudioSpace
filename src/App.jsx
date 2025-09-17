@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from './components/Header'
-import LoadingScr from './components/LoadingScr'
+import Header from './components/Header';
+import Loader from './components/Loader'
 
 const App = () => {
   return (
     <>
-      <LoadingScr />
+      <Loader />
       <Header />
     </>
   )

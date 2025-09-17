@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react'
 import gsap from 'gsap'
 
-const LoadingScr = () => {
+const Loader = () => {
   const loaderContainer = useRef(null)
   const headingRef = useRef(null)
   const subtextRef = useRef(null)
@@ -81,4 +81,4 @@ const LoadingScr = () => {
   )
 }
 
-export default LoadingScr
+export default Loader
