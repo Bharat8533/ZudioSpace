@@ -1,6 +1,6 @@
 import React from 'react'
-import LoadingScr from './components/loadingScr'
 import Header from './components/Header'
+import LoadingScr from './components/LoadingScr'
 
 const App = () => {
   return (
