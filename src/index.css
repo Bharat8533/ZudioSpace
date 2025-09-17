@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.logoFont{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+}
